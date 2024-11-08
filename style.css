@@ -1,4 +1,13 @@
-#important url("style/header.css")
+@important url("style/header.css")
+@import url("styles/banner.cs")
 :root{
-    --font-principal:""
+    --font-principal:"Poppins"
+}
+
+
+body{
+    background-color: bisque;
+    font-family: : var (--font-principal);
+    font-size: 16px
+    fot-weight: 400
 }
