@@ -20,7 +20,7 @@ margin: 1em 0;
     padding: 1em;
     width: 100%;
 }
-.banner_pesquisa:: placeholder{
+.banner_pesquisa::placeholder{
     font-family: var(--fonte-principal);
     font-size: 14px;
     font-weight: 400;
@@ -28,6 +28,5 @@ margin: 1em 0;
     color: beige;
     background: url("..img/Lupa.svg")no repeat;
     background-position: 1em;
-..
 
 }
